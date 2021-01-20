@@ -2,7 +2,7 @@
 Data Science | Econometrics
 
 Passionate about leveraging data and analytics to provide data-driven solutions and insights
-Extensive data analytics and data modeling experiences with different tools - Python, R, SQL, Stata, MATLAB, Tableau, Hadoop, 
+Extensive data analytics and data modeling experiences with different tools - Python, R, SQL, Stata, MATLAB, Tableau, Hadoop
 
 Master of Science degree in Business Analytics at University of Texas at Austin
 
