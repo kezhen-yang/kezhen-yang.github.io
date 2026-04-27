@@ -6,7 +6,13 @@ ecosystems.
 
 
 WORK EXPERIENCE 
-SAP America – AI Solution Advisor     Jan 2022 – Present 
+SAP America – Senior AI Solution Architect     Apr 2026 – Present 
+● Architected end-to-end autonomous service ecosystems for the DMLT portfolio by designing self-healing AI Agent pipelines using SAP Business AI and Python, eliminating human touchpoints and driving delivery toward a zero-touch operational model.
+● Led presales technical strategy and stakeholder alignment across Consultant-to-C-Suite engagements, translating complex SAP landscape requirements into scalable automation roadmaps and directly influencing enterprise pipeline opportunities.
+● Engineered intelligent RPA automation solutions leveraging UiPath, Automation Anywhere, and Microsoft Power Automate integrated with SAP ERP via BAPIs, RFCs, and SAP GUI scripting, enabling high-value automation across complex enterprise landscapes.
+● Decoupled intricate business requirements into modular, agent-executable architectures using ABAP and Python, accelerating time-to-value and positioning customers to leverage the latest SAP Business AI advancements for competitive advantage.
+
+SAP America – AI Solution Advisor     Jan 2022 – Apr 2026 
 ● Engineered large-scale data orchestration pipelines for 18TB+ of enterprise data across 300+ systems, creating high-fidelity, high-
 dimension datasets optimized for training and fine-tuning LLMs and powering production-grade Agentic AI workflows.  
 ● Led technical Proof-of-Concepts integrating statistical process mining with LLM Orchestration to automate decision-making; utilized 
